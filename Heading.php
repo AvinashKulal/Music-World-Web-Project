@@ -26,19 +26,21 @@ function showAction(){
 <center><span class  = "whitetext playtext" style="color:blue;">ABOUT US</span></center>
 <span class="close" onclick="javascript:closeit('panel')">&times;</span>
 <div class = "boxer">
-<img src = "images/avinash.jpeg" style = "float:left;padding:2px;margin-right:10px" width = "200px" height = "170px"/>
-<span class = "whitetext lightext">Avinash</span><br/>
-<span class = "whitetext lightext">avinashkulal1977@gmail.com</span><br/>
-<span class = "whitetext lightext">Canara Engineering Colleg Mangalore</span><br/><br/><br/><br/><br/><br/>
+<img src = "" alt = "Developer 2 " style = "float:left;padding:2px;margin-right:10px" width = "200px" height = "170px"/>
+<span class = "whitetext lightext">Name : </span><br/>
+<span class = "whitetext lightext">Email : </span><br/>
+<span class = "whitetext lightext">College :</span>
+	
+	<br/><br/><br/><br/><br/><br/>
 
 
 
 </div><br/>
 <div class = "boxer">
-<img src = "images/praveena.png" style = "float:left;padding:2px;margin-right:10px"  width = "200px" height = "170px"/>
-<span class = "whitetext lightext">Praveena Kumar</span><br/>
-<span class = "whitetext lightext">praveennikki73@gmail.com</span><br/>
-<span class = "whitetext lightext">Canara Engineering Colleg Mangalore</span>
+<img src = "" alt = "Developer 1" style = "float:left;padding:2px;margin-right:10px"  width = "200px" height = "170px"/>
+<span class = "whitetext lightext">Name : </span><br/>
+<span class = "whitetext lightext">Email : </span><br/>
+<span class = "whitetext lightext">College :</span>
 </div>
 </div>
 
